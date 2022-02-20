@@ -3,5 +3,7 @@
 pragma solidity ^0.8.12;
 
 contract HelloWorld {
+    //greeting message
     string public greet = "Hello World!";
+
 }
